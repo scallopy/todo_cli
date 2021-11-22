@@ -13,3 +13,5 @@ $ chmod +x todo.sh
 ## Working with todo CLI app:
 
 $ ./todo help
+
+That is all for now.
