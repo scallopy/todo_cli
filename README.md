@@ -1,4 +1,6 @@
-# todo_cli
+# Todo CLI application
+
+# Add Todo to the file in terminal or cmd:
 
 ## Clone project:
 
@@ -13,5 +15,3 @@ $ chmod +x todo.sh
 ## Working with todo CLI app:
 
 $ ./todo help
-
-That is all for now.
